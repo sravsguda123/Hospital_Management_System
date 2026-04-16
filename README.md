@@ -1,4 +1,4 @@
-# 🏥 NEXUSMED HOSPITAL MANAGEMENT SYSTEM
+# 🏥HOSPITAL MANAGEMENT SYSTEM
 
 ## 📌 Project Overview
 
@@ -133,5 +133,4 @@ This project is designed for academic, learning, and demonstration purposes.
 It showcases advanced SQL concepts suitable for interviews and placements.
 
 ======================================
-END OF README
-=============
+
