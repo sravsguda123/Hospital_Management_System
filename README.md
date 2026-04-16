@@ -1,4 +1,4 @@
-# 🏥HOSPITAL MANAGEMENT SYSTEM
+# 🏥 HOSPITAL MANAGEMENT SYSTEM
 
 ## 📌 Project Overview
 
@@ -83,6 +83,13 @@ The system supports advanced database features such as views, stored procedures,
 
 ---
 
+## 🎥 Demo Video
+
+Watch the working demonstration of the project here:
+👉 https://drive.google.com/file/d/1T0b6IIg0BzUvTsiY_jLKVR85qR8YOqrB/view?usp=sharing
+
+---
+
 ## 📈 Advanced Features
 
 * Automated billing after treatment (Trigger)
@@ -133,4 +140,3 @@ This project is designed for academic, learning, and demonstration purposes.
 It showcases advanced SQL concepts suitable for interviews and placements.
 
 ======================================
-
